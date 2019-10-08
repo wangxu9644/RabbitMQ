@@ -20,3 +20,6 @@ picture/9240.png
 于是就能在消费者端看到 不同的主题收到对应的消息了。
 http://stepimagewm.how2j.cn/9252.png
 picture/9252.png
+
+RabbitMQUtil.java类作用：
+判断服务器是否启动

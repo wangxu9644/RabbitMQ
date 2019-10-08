@@ -20,7 +20,7 @@ import java.util.concurrent.TimeoutException;
  * 四个路由："usa.news", "usa.weather", "europe.news", "europe.weather"
  * 上发布   "美国新闻",   "美国天气",    "欧洲新闻",     "欧洲天气".
  */
-public class TesProducer {
+public class TestProducer {
 
     public final static String EXCHANGE_NAME="topics_exchange";
 

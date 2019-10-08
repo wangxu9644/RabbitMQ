@@ -11,6 +11,10 @@ import javax.swing.*;
  * @Description TODO
  * @createTime 2019-10-07  20:51:14
  */
+
+/**
+*判断服务器是否启动
+*/
 public class RabbitMQUtil {
     public static void main(String[] args) {
         checkServer();
